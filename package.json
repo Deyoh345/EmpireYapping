@@ -1,0 +1,19 @@
+{
+  "name": "empireyapping",
+  "version": "1.0.0",
+  "main": "emping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node emping.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "canvas": "^3.1.2",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.1.0",
+    "fs": "^0.0.1-security"
+  }
+}

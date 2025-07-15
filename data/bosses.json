@@ -1,0 +1,38 @@
+{
+    "E": [
+        { "name": "Tikus Got Raksasa", "health": 50, "damage": 5, "xp": 25, "denarii": 10, "image": "tikus_got_raksasa.png" },
+        { "name": "Slime Asam", "health": 60, "damage": 4, "xp": 20, "denarii": 12, "image": "slime_asam.png" },
+        { "name": "Pramuka Goblin", "health": 45, "damage": 6, "xp": 30, "denarii": 8, "image": "pramuka_goblin.png" },
+        { "name": "Babi Hutan Liar", "health": 70, "damage": 7, "xp": 35, "denarii": 15, "image": "babi_hutan_liar.png" }
+    ],
+    "D": [
+        { "name": "Prajurit Orc", "health": 120, "damage": 12, "xp": 60, "denarii": 30, "image": "prajurit_orc.png" },
+        { "name": "Laba-laba Raksasa", "health": 90, "damage": 15, "xp": 55, "denarii": 28, "image": "laba_laba_raksasa.png" },
+        { "name": "Preman Bandit", "health": 110, "damage": 10, "xp": 50, "denarii": 40, "image": "preman_bandit.png" },
+        { "name": "Harpy", "health": 80, "damage": 18, "xp": 65, "denarii": 25, "image": "harpy.png" }
+    ],
+    "C": [
+        { "name": "Ogre", "health": 280, "damage": 25, "xp": 130, "denarii": 70, "image": "ogre.png" },
+        { "name": "Minotaur", "health": 300, "damage": 22, "xp": 150, "denarii": 80, "image": "minotaur.png" },
+        { "name": "Basilisk", "health": 220, "damage": 30, "xp": 140, "denarii": 65, "image": "basilisk.png" },
+        { "name": "Golem Batu", "health": 350, "damage": 18, "xp": 120, "denarii": 90, "image": "golem_batu.png" }
+    ],
+    "B": [
+        { "name": "Wyvern", "health": 550, "damage": 40, "xp": 320, "denarii": 160, "image": "wyvern.png" },
+        { "name": "Chimera", "health": 600, "damage": 35, "xp": 350, "denarii": 180, "image": "chimera.png" },
+        { "name": "Kepala Suku Troll", "health": 700, "damage": 30, "xp": 300, "denarii": 200, "image": "kepala_suku_troll.png" },
+        { "name": "Manticore", "health": 500, "damage": 45, "xp": 380, "denarii": 170, "image": "manticore.png" }
+    ],
+    "A": [
+        { "name": "Naga Muda", "health": 1000, "damage": 60, "xp": 750, "denarii": 400, "image": "naga_muda.png" },
+        { "name": "Hydra", "health": 1200, "damage": 55, "xp": 800, "denarii": 450, "image": "hydra.png" },
+        { "name": "Behemoth", "health": 1500, "damage": 50, "xp": 700, "denarii": 500, "image": "behemoth.png" },
+        { "name": "Cyclops", "health": 900, "damage": 70, "xp": 850, "denarii": 380, "image": "cyclops.png" }
+    ],
+    "S": [
+        { "name": "Raja Lich", "health": 2500, "damage": 100, "xp": 2000, "denarii": 1000, "image": "raja_lich.png" },
+        { "name": "Archdemon", "health": 3000, "damage": 90, "xp": 2200, "denarii": 1200, "image": "archdemon.png" },
+        { "name": "Naga Kuno", "health": 2800, "damage": 110, "xp": 2500, "denarii": 1100, "image": "naga_kuno.png" },
+        { "name": "Titan", "health": 4000, "damage": 80, "xp": 1800, "denarii": 1500, "image": "titan.png" }
+    ]
+}

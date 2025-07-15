@@ -1,0 +1,7 @@
+[
+    { "id": "wolf_pelt", "name": "Wolf Pelt", "description": "A rough pelt from a common wolf.", "image": "wolf_pelt.png", "type": "material" },
+    { "id": "slime_gel", "name": "Slime Gel", "description": "A sticky, gelatinous substance.", "image": "slime_gel.png", "type": "material" },
+    { "id": "boar_tusk", "name": "Boar Tusk", "description": "A sharp tusk from a wild boar.", "image": "boar_tusk.png", "type": "material" },
+    { "id": "goblin_ear", "name": "Goblin Ear", "description": "A grotesque trophy from a defeated goblin.", "image": "goblin_ear.png", "type": "material" },
+    { "id": "health_potion_small", "name": "Small Potion", "description": "Restores a small amount of health.", "image": "health_potion_small.png", "type": "consumable" }
+]

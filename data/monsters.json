@@ -1,0 +1,13 @@
+[
+    { "name": "Slime", "health": 20, "damage": 2, "xp": 10, "denarii": 5, "image": "slime.png", "drops": [{ "id": "slime_gel", "chance": 0.5 }] },
+    { "name": "Wolf", "health": 25, "damage": 3, "xp": 12, "denarii": 6, "image": "wolf.png", "drops": [{ "id": "wolf_pelt", "chance": 0.4 }] },
+    { "name": "Wolf Alpha", "health": 40, "damage": 5, "xp": 18, "denarii": 10, "image": "wolf_alpha.png", "drops": [{ "id": "wolf_pelt", "chance": 0.8 }] },
+    { "name": "Bandit Jalanan", "health": 35, "damage": 4, "xp": 14, "denarii": 15, "image": "bandit.png", "drops": [{ "id": "health_potion_small", "chance": 0.1 }] },
+    { "name": "Bandit Leader", "health": 55, "damage": 6, "xp": 22, "denarii": 25, "image": "bandit_leader.png", "drops": [{ "id": "health_potion_small", "chance": 0.2 }] },
+    { "name": "Babi Hutan Liar", "health": 50, "damage": 6, "xp": 20, "denarii": 8, "image": "boar.png", "drops": [{ "id": "boar_tusk", "chance": 0.3 }] },
+    { "name": "Prajurit Desersi", "health": 40, "damage": 5, "xp": 15, "denarii": 10, "image": "deserter.png", "drops": [] },
+    { "name": "Harpi", "health": 30, "damage": 7, "xp": 18, "denarii": 7, "image": "harpy.png", "drops": [] },
+    { "name": "Kentaur", "health": 60, "damage": 8, "xp": 25, "denarii": 20, "image": "centaur.png", "drops": [] },
+    { "name": "Goblin", "health": 30, "damage": 4, "xp": 12, "denarii": 9, "image": "goblin.png", "drops": [{ "id": "goblin_ear", "chance": 0.6 }, { "id": "health_potion_small", "chance": 0.05 }] },
+    { "name": "Goblin Shaman", "health": 25, "damage": 2, "magic": 8, "xp": 16, "denarii": 12, "image": "goblin_shaman.png", "drops": [{ "id": "goblin_ear", "chance": 0.3 }, { "id": "health_potion_small", "chance": 0.15 }] }
+]
